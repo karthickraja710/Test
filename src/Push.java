@@ -1,13 +1,18 @@
 
 public class Push {
 
-	private void sample2() {
-		System.out.println("welcome");
+private void sample() {
+	System.out.println("hello");
 
-	}
-	public static void main(String[] args) {
-	System.out.println("hi");
-	
-	
 }
+
+	public static void main(String[] args) {
+		System.out.println("hi");
+		Push p=new Push();
+		p.sample();
+	
+	}
+	
+	
+	
 }
