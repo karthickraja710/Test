@@ -5,7 +5,11 @@ public class Push {
 		System.out.println("hello");
 
 	}
-		public static void main(String[] args) {
+		
+	public void sample3() {
+		System.out.println("test code");
+	}
+	public static void main(String[] args) {
 			System.out.println("hi");
 			
 		}
